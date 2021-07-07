@@ -21,11 +21,11 @@ and others for which I wil give a plot to depict them
 ### Let's start
 
 For the top team over the years from the data collected, Barcelona have dominated the La Liga, winning 7 titles with three coming in a row during 2009-2011 years
-![Leage champions]("images/champions.png")
+<img src="images/champions.png"/>
 Format: ![Champions for the past ten years]
 
 For top goal scorers, it is not a suprise that Lionel Messi tops the chart
-![Leage champions]("images/highest_scorers.png")
+<img src="images/highest_scorers.png"/>
 
 Home teams have better winning percentage with a whooping _48.1%_ of the 3800 games played accross the years. This can be used to deduce that for the next seasons to follow, home teams have a higher chance of winning, this can be seen as a result of reasons including
     * home fans' support
